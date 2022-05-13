@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Geooh
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Java/Javascript at City College of San Francisco
+- 👋 Nice to meet you, I’m @Geooh!
+- 👀 I’m interested in front-end web development
+- 🌱 I’m currently learning Java, HTML/CSS, Javascript, and other front-end frameworks at City College of San Francisco
 - 📫 Reach out to me at Geowong1991@yahoo.com
 
 <!---
